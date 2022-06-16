@@ -1,0 +1,15 @@
+
+t
+java:S1104"RMake parent a static final constant or non-public and provide accessors if needed.(âıÈşıÿÿÿÿ8ï¼ÅÌ‰0
+r
+java:S1104"PMake user a static final constant or non-public and provide accessors if needed.(¾Êïûùÿÿÿÿ8µ‰ÆÌ‰0
+w
+java:S1104"UMake canCreate a static final constant or non-public and provide accessors if needed.(½Ü³úÿÿÿÿ8µ‰ÆÌ‰0
+p
+java:S1104"SMake canRead a static final constant or non-public and provide accessors if needed.(³ÍÂÉ8µ‰ÆÌ‰0
+r
+java:S1104"UMake canDelete a static final constant or non-public and provide accessors if needed.(û†¯×8“¦ÆÌ‰0
+p
+java:S1104"TMake canAdmin a static final constant or non-public and provide accessors if needed.(óï•8Æ¿ÆÌ‰0
+p
+java:S1104"SMake canSend a static final constant or non-public and provide accessors if needed.(ûĞâ8½ßÆÌ‰0
