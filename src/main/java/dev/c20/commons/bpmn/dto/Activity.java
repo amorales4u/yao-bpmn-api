@@ -1,6 +1,7 @@
 package dev.c20.commons.bpmn.dto;
 
 import dev.c20.commons.stororage.dto.adds.Perm;
+
 import java.io.Serializable;
 import java.util.LinkedList;
 import java.util.List;

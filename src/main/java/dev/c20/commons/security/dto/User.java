@@ -1,6 +1,5 @@
 package dev.c20.commons.security.dto;
 
-import dev.c20.commons.security.dto.PermDto;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.experimental.Accessors;

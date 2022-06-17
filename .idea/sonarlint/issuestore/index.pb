@@ -9,3 +9,15 @@ j
 :src/main/java/dev/c20/commons/stororage/dto/adds/Note.java,6/2/6291c6f80d58dad4942c898a21bccdbb5df54123
 j
 :src/main/java/dev/c20/commons/stororage/dto/adds/Perm.java,0/a/0aa180e24b57ed278b0dfa93022c9d5a5d8be42d
+c
+3src/main/java/dev/c20/commons/bpmn/dto/Process.java,3/0/30d206fb8ffe408b5a1837f033200c240cf09645
+k
+;src/main/java/dev/c20/commons/bpmn/dto/ProcessInstance.java,4/4/44eddc586baacc649ce3d8746aa7fcfd1ad294e8
+h
+8src/main/java/dev/c20/commons/bpmn/dto/TaskInstance.java,a/e/aeb7a5c8c0dc7cbb92c6ea354470ac8b848ddd11
+t
+Dsrc/main/java/dev/c20/commons/stororage/dto/adds/ProtectedValue.java,1/8/186660d990c3c94fe4a3d628fd9d7bf4060b06a4
+k
+;src/main/java/dev/c20/commons/stororage/dto/adds/Value.java,5/8/584be7d90f6796f2d3f6d14ea7440ac326b687bf
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
